@@ -1,20 +1,21 @@
+# 英文 | [中文](README_cn.md)
 # robot-joystick
 
-## 1. 下载运行
+## 1. Download and Run
 
-- 打开一个 Bash 终端。
+- Open a Bash terminal.
 
-- 下载 robot-joystick：
+- Download the robot-joystick：
 
   ```
   git clone https://github.com/limxdynamics/robot-joystick.git
   ```
 
-- 运行 robot-joystick：
+- Run the robot-joystick：
 
   ```
   ./robot-joystick/robot-joystick
   ```
 
-## 2. 效果展示
+## 2. Demonstration of Results
 ![](doc/joystick.png)
