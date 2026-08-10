@@ -1,8 +1,5 @@
 # 中文 | [English](README.md)
-
 # robot-joystick
-
-LimX 机器人的虚拟摇杆控制工具，用于仿真中的遥操作和测试。
 
 ## 1. 下载与运行
 
