@@ -1,4 +1,7 @@
-# English | [中文](README_cn.md)
+<p align="center">
+  <b>English</b> | <a href="README_cn.md">中文</a>
+</p>
+
 # robot-joystick
 
 ## 1. Download and Run
